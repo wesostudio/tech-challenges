@@ -1,2 +1,2 @@
-# Weso | Tech Challenges Guidelines
+# Weso Studio | Tech Challenges Guidelines
  

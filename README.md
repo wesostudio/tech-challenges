@@ -1,2 +1,2 @@
-# tech-challenges
+# Weso | Tech Challenges Guidelines
  
